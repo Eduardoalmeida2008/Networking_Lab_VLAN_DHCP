@@ -54,9 +54,9 @@ show vlan brief: To confirm VLAN assignments on switches.
 show ip route: To validate the routing table and static routes.
 
 ICMP Connectivity: Successful pings between all VLANs were achieved, confirming the Router-on-a-Stick functionality.
-```
+````
 
-´´´´📸 Lab Screenshots
+📸 Lab Screenshots
 (Insert your best screenshots here, such as the topology diagram and the successful ping tests)´´´´
 
 Developed by [Eduardo] Network Engineering Student | CCNA Candidate
