@@ -13,11 +13,11 @@ This repository documents a complete Layer 3 network infrastructure lab. The pro
 | Interface / Subinterface | VLAN | Network | Description |
 | :--- | :--- | :--- | :--- |
 | Gig0/0.10 | 10 | 192.168.10.0/24 | Sales |
-| Gig0/0.20 | 20 | 192.168.20.0/24 | HR |
-| Gig0/1.30 | 30 | 192.168.30.0/24 | Finance |
-| Gig0/1.40 | 40 | 192.168.40.0/24 | IT / Management |
+| Gig0/0.20 | 20 | 192.168.20.0/24 | marketing |
+| Gig0/1.30 | 30 | 192.168.30.0/24 |Support |
+| Gig0/1.40 | 40 | 192.168.40.0/24 | IT / Financial |
 | Gig0/2 (R2 Link) | - | 192.168.100.0/30 | Point-to-Point Link |
-| R2 Gig1/0.50 | 50 | 192.168.50.0/24 | Servers |
+| R2 Gig1/0.50 | 50 | 192.168.50.0/24 | Direction |
 
 ## ⚙️ Configuration Snippets (Verified)
 
